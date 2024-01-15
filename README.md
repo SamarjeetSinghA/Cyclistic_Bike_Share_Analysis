@@ -5,7 +5,7 @@ I am excited to present to you my first case study as a Data Analyst, where I wo
 ### Related Links
 * [Tableau]() for Data Visualization Dashboard
 * [Powerpoint Presentation]() for Analysis Summary
-* [LinkedIn]() Profile
+* [LinkedIn Profile]() 
 * [Full Portfolio]()
 
 ## Table of Contents
