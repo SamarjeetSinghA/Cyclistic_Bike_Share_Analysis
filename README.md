@@ -91,3 +91,5 @@ Cyclistic Bike Share was my first Data Analytics Case Study and I feel very conf
 During the case study, I watched a lot of YouTube tutorials and did many Google searches to gather additional knowledge and to make sure I had a comprehensive understanding of the tools and techniques needed.
 
 Starting from raw data of over 5 Million Rows and processing it to finally gain key insights about consumer behaviour was a valuable experience in solidifying my understanding of data analytics. 
+
+Hey Guys
