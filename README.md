@@ -87,7 +87,7 @@ Here are the findings I derived from the processed data:
 * The busiest station of all was Streeter Dr & Grand Ave, followed by Dusable Lake Shore & Monroe St and Michigan Ave & Oak St.
 <img width="367" alt="Screenshot 2024-01-17 at 7 45 19 PM" src="https://github.com/SamarjeetSinghA/Cyclistic_Bike_Share_Analysis/assets/25562702/7055765c-387c-4f55-9733-7bbf51b0ff3f">
 
-### Below is my Tableau Dashboard that can also be accessed from [here](https://public.tableau.com/app/profile/samar.jeet.singh/viz/CyclisticBikeShare_17046965492750/CyclisticBikeShare)
+### Cyclistic Bike Share Tableau Dashboard[here](https://public.tableau.com/app/profile/samar.jeet.singh/viz/CyclisticBikeShare_17046965492750/CyclisticBikeShare)
 <img width="1424" alt="Screenshot 2024-01-17 at 7 54 17 PM" src="https://github.com/SamarjeetSinghA/Cyclistic_Bike_Share_Analysis/assets/25562702/d2932b20-4c02-4a1a-9ee7-1f801850f0e3">
 
 ## Recommendations
