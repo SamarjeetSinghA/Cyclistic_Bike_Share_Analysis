@@ -3,7 +3,7 @@
 I am excited to present to you my first case study as a Data Analyst, where I worked with a realistic dataset and gained some valuable insights about the business and its customers. 
 
 ### Related Links
-* [Tableau](https://public.tableau.com/app/profile/samar.jeet.singh/viz/CyclisticBikeShare_17046965492750/CyclisticBikeShare) for Data Visualization Dashboard
+* [Tableau Dashboard](https://public.tableau.com/app/profile/samar.jeet.singh/viz/CyclisticBikeShare_17046965492750/CyclisticBikeShare)
 * [LinkedIn Profile](https://www.linkedin.com/in/samarjeetsingharora/) 
 <!--* [Future Full Portfolio]()-->
 <!--* [Future Powerpoint Presentation]()-->
